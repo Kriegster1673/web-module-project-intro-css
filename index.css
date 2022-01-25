@@ -1,3 +1,26 @@
-h1 {
-    color:green;
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
 }
+
+#visit {
+    background-color: #FF764E;
+}
+
+#park {
+    background-color: #5ED3EB;
+}
+
+#involved {
+    background-color: #FFCD69;
+}
+
+.chelsea {
+    font-family: "Chelsea Market";
+}
+ * {
+     font-family: "Roboto Mono";
+ }
