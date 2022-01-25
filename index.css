@@ -19,14 +19,17 @@
 }
 
 .chelsea {
-    font-family: "Chelsea Market";
+    font-family: "Chelsea Market" !important;
+    font-size: 3rem !important;
 }
  * {
      font-family: "Roboto Mono";
+     text-align: center;
  }
 
  main {
      background-color: #DDB9A3;
+     margin-top: 3rem;
  }
 
  footer {
@@ -36,3 +39,35 @@
  .thick {
      font-weight: bold;
  }
+
+ header img {
+     border-radius: 50%;
+     float: left;
+     height: 25rem;
+ }
+
+ #visit, #park, #involved {
+     border-radius: 2.5rem;
+     margin: 20rem 10rem;
+     font-size: 2rem;
+     padding: 1rem;
+ }
+
+ header nav {
+     margin-bottom: 10rem;
+     margin-top: 2rem;
+ }
+
+ img {
+     height: 11rem;
+     width: 11rem;
+ }
+
+ footer img {
+     width: 30rem;
+ }
+
+ .body-text {
+     font-size: 1.5rem;
+ }
+
