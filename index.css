@@ -1,10 +1,4 @@
-* {
-    margin: 0;
-    padding: 0;
-    font-size: 100%;
-    font: inherit;
-    vertical-align: baseline;
-}
+
 
 #visit {
     background-color: #FF764E;
@@ -24,16 +18,18 @@
 }
  * {
      font-family: "Roboto Mono";
-     text-align: center;
+
  }
 
  main {
      background-color: #DDB9A3;
-     margin-top: 3rem;
+     margin: 4rem 2rem;
+    padding: 1rem 1rem;
  }
 
  footer {
      background-color: #F9E7DC;
+     padding-bottom: 4rem;
  }
 
  .thick {
@@ -61,11 +57,15 @@
  img {
      height: 11rem;
      width: 11rem;
+     margin-left: auto;
+     margin-right: auto;
  }
 
  footer img {
-     width: 30rem;
+     width: 100%;
+     padding-bottom: 3rem;
  }
+
 
  .body-text {
      font-size: 1.5rem;
